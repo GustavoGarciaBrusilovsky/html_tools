@@ -3,6 +3,10 @@ h1 {
   font-family: cursive;
 }
 
+h2 {
+	color: green;
+}
+
 body {
   height: 100vh;
   color: #1f1f1f;
